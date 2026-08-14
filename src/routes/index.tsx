@@ -122,7 +122,7 @@ function Home() {
           server processing time — treat them as comparative, not raw ICMP ping.
         </p>
         <p className="text-muted-foreground/70">
-          Copyright © 2026 | Developed by HANSRAJ SINH VAGHELA and PROFESSOR AYAN BHAI
+          Copyright © 2026 | Developed by AHP Group Pvt. Ltd. | All Rights Reserved.
         </p>
       </footer>
     </main>
